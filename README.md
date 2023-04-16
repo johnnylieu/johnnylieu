@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnnylieu
+- 👋 Hi, I’m @johnnylieu | [LinkedIn](https://www.linkedin.com/in/johnny-lieu/)
 - 👨🏼‍💻 My other projects: [Replit](https://replit.com/@JohnnyLieu) || [Code Sandbox](https://codesandbox.io/dashboard/recent?workspace=480900de-b9b8-483c-86d5-3f78ace6dd61)
 - 👀 I’m interested in back-end development!
 - 🌱 I’m currently learning fullstack web development, Python, and SQL! 
