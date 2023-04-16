@@ -3,7 +3,7 @@
 - 📫 How to reach me: JohnnyLieu@yahoo.com | [LinkedIn](https://www.linkedin.com/in/johnny-lieu/)
 - 👀 I’m interested in anything code related (preferrably JS or Python)!
 - 🌱 I’m a full stack developer who's currently learning Python, Linux, and SQL!
-- 🤝 I’m looking to collaborate on anything that will help me grow as a developer!
+- 🤝 I’m looking to collaborate on anything that will help me grow as a developer! Show me something new!
 
 <!---
 johnnylieu/johnnylieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
