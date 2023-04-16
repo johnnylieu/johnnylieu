@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnnylieu
 - 👨🏼‍💻 My other repos: [Replit](https://replit.com/@JohnnyLieu) | [Code Sandbox](https://codesandbox.io/dashboard/recent?workspace=480900de-b9b8-483c-86d5-3f78ace6dd61)
 - 📫 How to reach me: JohnnyLieu@yahoo.com | [LinkedIn](https://www.linkedin.com/in/johnny-lieu/)
-- 👀 I’m interested in anything code related (preferrably JS or Python)!
+- 👀 I’m interested in anything code related _(preferrably JS or Python)_!
 - 🌱 I’m a full stack developer who's currently learning Python, Linux, and SQL!
 - 🤝 I’m looking to collaborate on anything that will help me grow as a developer! Show me something new!
 
