@@ -5,6 +5,8 @@
 - 🌱 I’m a developer who is proficient in JavaScript, Python, Linux, OOP, DSA, Git & GitHub, and SQL.
 - 🤝 I’m looking to collaborate on anything that will help me grow as a developer! Show me something new!
 
+"Mistakes & fears are beautiful gifts wrapped in ugly packages."
+
 <!---
 johnnylieu/johnnylieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
