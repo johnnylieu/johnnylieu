@@ -6,6 +6,7 @@
 - 🤝 I’m looking to collaborate on anything that will help me grow as a developer! Show me something new!
 
 "Mistakes & fears are beautiful gifts wrapped in ugly packages."
+My homepage: https://johnnylieu.github.io/about_me_website/
 
 <!---
 johnnylieu/johnnylieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
